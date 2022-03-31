@@ -1,0 +1,1 @@
+# sum-of-individual-numbers
